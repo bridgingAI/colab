@@ -1,0 +1,7 @@
+Line A
+Line B
+Line C
+Line D
+Append this line separately.
+ And so does this one after the newlineAppend this line separately.
+ And this one after the newline

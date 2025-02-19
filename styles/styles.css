@@ -1,0 +1,53 @@
+summary {
+    display: list-item;
+    cursor: pointer;
+}
+
+.task {
+    border: 2px solid cornflowerblue;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    counter-increment: task-counter 1;
+}
+
+.excursion {
+    border: 2px solid darkgray;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    background: rgba(0, 0, 0, 0.1);
+    counter-increment: excursion-counter 1;
+}
+
+.pyfeature {
+    text-decoration: underline darkgreen;
+    text-decoration-thickness: 2px;
+}
+
+.javafeature {
+    text-decoration: underline darkorange;
+    text-decoration-thickness: 2px;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.learnmore {
+    border: 2px solid burlywood;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.meta {
+    border: 2px dashed darkgray;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    margin-top: 50px;
+}
